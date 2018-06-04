@@ -1,0 +1,21 @@
+{
+  "name": "bot-tutorial",
+  "version": "1.0.0",
+  "description": "bot app",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "asyncawait": "^1.0.6",
+    "babel": "^6.23.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "save": "^2.3.2"
+  }
+}
